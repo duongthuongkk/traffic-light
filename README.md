@@ -1,1 +1,2 @@
 # **Traffic light system at the intersection**
+This is a system that can simulate traffic lights at intersections through the use of STM32 and peripherals such as traffic light LEDs, 7-segment LEDs, matrix keyboards, and LCD screens. The system has 2 modes including night mode (ie the orange LEDs only flash) and automatic mode with adjustable time. Adjusting the time and mode will be via the matrix keyboard and the results will be displayed on the LCD screen.
